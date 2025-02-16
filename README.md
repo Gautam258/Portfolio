@@ -78,7 +78,3 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 
 ## **License**  
 This project is licensed under the **MIT License**.  
-
----
-
-This format ensures proper readability with bold headings. Let me know if you need any modifications! 🚀
